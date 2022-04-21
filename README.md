@@ -1,8 +1,8 @@
+
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
-  Hello Microverse project
-
+# Hello Microverse
+  
 > In this porject we used linters and added html and css files.
 
 
@@ -12,9 +12,23 @@
 - Frameworks: Visual studio
 - Technologies used
 
+## Getting Started
+ To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+    Web Browser (e.g. Firefox, Chrome, Edge)
+    NPM (Node Package Manager)
+
+### Setup
+    Download the code from this repository.
+
+### Install
+    Install the linters in your local environment to mantain your code clean.
+    
+
 ## Authors
 
-👤 **Author1**
+👤 **Alqama Saeed**
 
 - GitHub: [@smas0900](https://github.com/smas0900)
 - Twitter: [@AlqamaSaeed](https://twitter.com/AlqamaSaeed)
