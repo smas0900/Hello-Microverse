@@ -16,11 +16,12 @@
  To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+
     Web Browser (e.g. Firefox, Chrome, Edge)
     NPM (Node Package Manager)
 
 ### Setup
-    Download the code from this repository.
+    Download code from this repository.
 
 ### Install
     Install the linters in your local environment to mantain your code clean.
